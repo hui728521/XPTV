@@ -7,6 +7,12 @@
             "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/czzy.js"
         },
         {
+            "name": "最新影视",
+            "type": 3,
+            "api": "csp_zxys",
+            "ext": "https://github.com/hui728521/XPTV/blob/7c4f2ceaafd0dd327eee6e80a9ce0ef27fb64cea/js/lz"
+        },
+        {
             "name": "哔滴影视",
             "type": 3,
             "api": "csp_bde4",
