@@ -1,0 +1,6 @@
+{
+  "name": "NetflixGC影视",
+  "type": 3,
+  "api": "csp_netflixgc",
+  "ext": "https://raw.githubusercontent.com/hui728521/XPTV/10178af0567b182fc4df44fd37af39f9aadf7f03/js/netflixgc.js"
+}
